@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF892E</color>
+    <color name="colorPrimaryDark">#FF6F01</color>
+    <color name="colorAccent">#FF6F00</color>
+    <color name="ic_launcher_weightmates_background">#FFA058</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="grey_100">#FF892E</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_500">#9E9E9E</color>
+</resources>
